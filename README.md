@@ -1,2 +1,2 @@
 # PetCare
-Pet Care is an app that allows people to manage and follow up with their pets wellbeing
+This project allows you to manage a database of pets for an animal shelter or veterinary clinic. Users can add, update, delete, and view pet details such as name, breed, age, medical history, etc.
